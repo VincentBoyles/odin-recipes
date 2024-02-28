@@ -1,25 +1,23 @@
-.odin {
-    font-family: 'Courier New', Courier, monospace;
+body {
+    background-color: #A5DD9B;
+}
+
+.title{
+    color: #000000;
+    background-color: #C5EBAA;
+    font-style: italic;
     text-align: center;
-    background-color: palegoldenrod;
+    margin: 50px;
+    padding-top: 20px;
+}
+
+.images{
+    background-color: #C5EBAA;
+    display: flex;
+    padding-left: 100px;
 }
 
 .recipes{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
-    background-color: bisque;
+    display: flex;
 }
 
-.talong{
-    text-align: center;
-    background-color: plum;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.sisig {
-    background-color: lightcoral;
-}
-
-.inasal{
-    background-color: lightpink;
-}
