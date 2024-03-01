@@ -2,6 +2,18 @@ body {
     background-color: #FFF3EA;
 }
 
+ul, ol{
+    display: inline-block;
+    text-align: left;
+}
+
+#recipe-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    
+    
+}
+/*index*/
 #title {
    text-align: center;
 }
@@ -17,6 +29,49 @@ body {
 #sisig, #talong, #inasal {
     font-weight:1000;
     margin: 10px;
+    border: 10px;   
+    background-color: #D1BB9F;
+    border-style:double;
+    border-color: #3A6D7E;
+    padding: 10px;
+}
+/*************************************************************/
+
+/*recipe pages*/
+
+.sisig-title-description{
+    text-align: center;
+    color: #3A6D7E;
+    font-size: x-large;
+    width: 500px;
+    margin: 10px;
+    border: 10px;   
+    background-color: #D1BB9F;
+    border-style:double;
+    border-color: #3A6D7E;
+    padding: 10px;
+}
+
+
+.ingredients{
+    text-align: center;
+    color: #3A6D7E;
+    font-size: x-large;
+    width: 500px;
+    margin: inherit;
+    border: 10px;   
+    background-color: #D1BB9F;
+    border-style:double;
+    border-color: #3A6D7E;
+    padding: 10px;
+}
+
+.steps{
+    text-align: center;
+    color: #3A6D7E;
+    font-size: x-large;
+    width: 500px;
+    margin: inherit;    
     border: 10px;   
     background-color: #D1BB9F;
     border-style:double;
