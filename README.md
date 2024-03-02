@@ -4,5 +4,5 @@ such as working with text, images, and links and how to
 make an HTML boiler plate.
 
 Details of the project is based on the recipes
-of Authentic Filipino dishes
+of authentic filipino dishes
 such as Tortang Talong, Sisig, and Chicken Inasal.
