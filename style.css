@@ -39,7 +39,7 @@ ul, ol{
 
 /*recipe pages*/
 
-.sisig-title-description{
+.recipe-title-description, .ingredients, .steps, .back{
     text-align: center;
     color: #3A6D7E;
     font-size: x-large;
@@ -52,29 +52,3 @@ ul, ol{
     padding: 10px;
 }
 
-
-.ingredients{
-    text-align: center;
-    color: #3A6D7E;
-    font-size: x-large;
-    width: 500px;
-    margin: inherit;
-    border: 10px;   
-    background-color: #D1BB9F;
-    border-style:double;
-    border-color: #3A6D7E;
-    padding: 10px;
-}
-
-.steps{
-    text-align: center;
-    color: #3A6D7E;
-    font-size: x-large;
-    width: 500px;
-    margin: inherit;    
-    border: 10px;   
-    background-color: #D1BB9F;
-    border-style:double;
-    border-color: #3A6D7E;
-    padding: 10px;
-}
