@@ -1,3 +1,5 @@
+
+
 body {
     background-color: #FFF3EA;
 }
@@ -50,11 +52,12 @@ p {
     font-size: x-large;
     width: 500px;
     margin: 10px;
-    border: 10px;   
+    border: 10px;
+    padding: 10px;   
     background-color: #D1BB9F;
     border-style:double;
     border-color: #3A6D7E;
-    padding: 10px;
+    
 }
 
 .flex{
